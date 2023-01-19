@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tfr/static/css/main.510db8a3.css",
+    "main.js": "/tfr/static/js/main.6ae62854.js",
+    "static/media/fira-sans-all-400-normal.woff": "/tfr/static/media/fira-sans-all-400-normal.a53186151b57dec16d41.woff",
+    "static/media/fira-sans-latin-ext-400-normal.woff2": "/tfr/static/media/fira-sans-latin-ext-400-normal.de53e7e7580bf5bc0690.woff2",
+    "static/media/fira-sans-latin-400-normal.woff2": "/tfr/static/media/fira-sans-latin-400-normal.684226288210a40c6acc.woff2",
+    "static/media/fira-sans-cyrillic-ext-400-normal.woff2": "/tfr/static/media/fira-sans-cyrillic-ext-400-normal.d68444561f969b0ec505.woff2",
+    "static/media/fira-sans-greek-400-normal.woff2": "/tfr/static/media/fira-sans-greek-400-normal.fc6dfdfac47f5b7efb29.woff2",
+    "static/media/header-lines.svg": "/tfr/static/media/header-lines.4162f6ab3c6fd8bfe585.svg",
+    "static/media/fira-sans-cyrillic-400-normal.woff2": "/tfr/static/media/fira-sans-cyrillic-400-normal.9bfda67e3f43aa0ea53d.woff2",
+    "static/media/fira-sans-greek-ext-400-normal.woff2": "/tfr/static/media/fira-sans-greek-ext-400-normal.2a7a57f95a4f314a9945.woff2",
+    "static/media/fira-sans-vietnamese-400-normal.woff2": "/tfr/static/media/fira-sans-vietnamese-400-normal.fe7c1b42f70ca2c9ae55.woff2",
+    "index.html": "/tfr/index.html",
+    "main.510db8a3.css.map": "/tfr/static/css/main.510db8a3.css.map",
+    "main.6ae62854.js.map": "/tfr/static/js/main.6ae62854.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510db8a3.css",
+    "static/js/main.6ae62854.js"
+  ]
+}
