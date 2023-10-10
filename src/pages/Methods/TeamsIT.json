@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "img": "./assets/teams/2.png",
+      "name": "Claudia P.B. Dellavia",
+      "text": "Odontoiatra, Prof.ssa di Anatomia Umana  presso il Dipartimento di Scienze Biomediche, Chirurgiche e Odontoiatriche dell'Università degli Studi di Milano."
+    },
+    {
+      "id": 2,
+      "img": "./assets/teams/3.png",
+      "name": "Federica Musto",
+      "text": "Odontoiatra, Dottore di Ricerca in Scienze Morfologiche presso l'Università degli Studi di Milano. È co-autrice di varie pubblicazioni su riviste internazionali."
+    },
+    {
+      "id": 3,
+      "img": "./assets/teams/4.png",
+      "name": "Redento Peretta",
+      "text": "Medico Chirurgo spec. Odontostomatologia, Ortognatodonzia e Scienze Morfologiche. Prof. a C. in Ortodonzia Scuola di Specializzazione in Chirurgia Maxillo-facciale e al corso di perfezionamento in Disordini Craniomandibolari dell’Università di Padova."
+    },
+    {
+      "id": 4,
+      "img": "./assets/teams/6.png",
+      "name": "Francesco Rosati",
+      "text": "Odontotecnico. Tiene conferenze e corsi in diversi congressi. Relatore presso il Dipartimento di Anatomia Umana dell'Università degli Studi di Milano diretto dalla Prof.ssa Chiarella Sforza."
+    },
+    {
+      "id": 5,
+      "img": "./assets/teams/5.png",
+      "name": "Riccardo Rosati",
+      "text": "Odontoiatra, Dottore di Ricerca in Scienze Morfologiche presso l'Università degli Studi di Milano. Autore di pubblicazioni scientifiche su riviste internazionali."
+    }
+  ]

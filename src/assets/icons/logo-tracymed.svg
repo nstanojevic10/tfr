@@ -1,0 +1,22 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="bottom" transform="translate(34.615 69.231)">
+    <path id="Tracciato_479" data-name="Tracciato 479" d="M-12162.355-6828v30.767h30.768Z" transform="translate(12162.355 6828.002)" fill="#87cede"/>
+    <path id="Tracciato_480" data-name="Tracciato 480" d="M0,0V30.769H30.769Z" transform="translate(30.769 30.77) rotate(180)" fill="#519fb0"/>
+  </g>
+  <g id="mid" transform="translate(65.385 34.616) rotate(90)">
+    <path id="Tracciato_479-2" data-name="Tracciato 479" d="M0,0V30.769H30.769Z" transform="translate(0 0)" fill="#76a6f7"/>
+    <path id="Tracciato_480-2" data-name="Tracciato 480" d="M0,0V30.769H30.769Z" transform="translate(30.769 30.77) rotate(180)" fill="#4285f4"/>
+  </g>
+  <g id="top-right" transform="translate(69.23 0)">
+    <path id="Tracciato_479-3" data-name="Tracciato 479" d="M-12162.36-6828v30.767h30.766Z" transform="translate(12162.36 6828.001)" fill="#db4437"/>
+    <path id="Tracciato_480-3" data-name="Tracciato 480" d="M0,0V30.769H30.769Z" transform="translate(30.77 30.77) rotate(180)" fill="#f27d73"/>
+  </g>
+  <g id="top-center" transform="translate(34.615 0)">
+    <path id="Tracciato_479-4" data-name="Tracciato 479" d="M-12162.36-6828v30.767h30.766Z" transform="translate(12162.36 6828.001)" fill="#fdc55a"/>
+    <path id="Tracciato_480-4" data-name="Tracciato 480" d="M0,0V30.769H30.769Z" transform="translate(30.77 30.77) rotate(180)" fill="#f4a025"/>
+  </g>
+  <g id="top-left" transform="translate(30.77 0) rotate(90)">
+    <path id="Tracciato_479-5" data-name="Tracciato 479" d="M0,0V30.769H30.769Z" transform="translate(0 0)" fill="#199d58"/>
+    <path id="Tracciato_480-5" data-name="Tracciato 480" d="M0,0V30.769H30.769Z" transform="translate(30.771 30.77) rotate(180)" fill="#56c845"/>
+  </g>
+</svg>

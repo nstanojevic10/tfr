@@ -1,0 +1,149 @@
+.material {
+    margin-top: 30vh;
+    width: 95vw;
+    .materials {
+        width: 95vw;
+        height: 25vh;
+        margin-top: 75px;
+        margin-right: 0;
+        margin-left: 0;
+        .materials1 {
+            width: 150px;
+            margin-top: 30px;
+
+
+            .logo1 {
+                position: relative;
+                width: 150px;
+                margin: 0;
+                padding: 0;
+            }
+
+            .logo2 {
+                position: relative;
+                width: 150px;
+                margin: 0;
+                padding: 0;
+                top: -40px;
+            }
+
+            .logo3 {
+                position: relative;
+                width: 150px;
+                margin: 0;
+                padding: 0;
+                top: 10px;
+            }
+        }
+
+        .vit {
+            font-size: 220px;
+            margin-top: -100px;
+            margin-left: 50px;
+            margin-right: 20px;
+            font-weight: 100;
+            color: rgb(0, 100, 0);
+
+        }
+
+        .materials2 {
+            justify-content: center;
+            top: -20px;
+
+            h1 {
+                color: rgb(0, 100, 0);
+                text-align: center;
+            }
+
+            p {
+                text-align: center;
+                font-size: 18px;
+            }
+
+            a {
+                text-decoration: none;
+                color: red;
+                font-size: 18px;
+                margin-left: calc(50% - 160px)
+            }
+
+            a:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+@media screen and (max-width: 992px) {
+    .material {
+        margin-top: 0;
+        
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .material {
+        margin-top: 0;
+
+        .materials {
+            justify-content: center;
+            height: auto;
+            margin: 0;
+            padding: 0;
+            margin-bottom: 50px;
+            margin-top: 0;
+
+
+            .materials1 {
+                width: auto;
+
+                .logo1 {
+                    position: relative;
+                    width: 150px;
+                    margin: 0;
+                    padding: 0;
+                    left: -10px;
+                }
+
+                .logo2 {
+                    position: relative;
+                    width: 150px;
+                    margin: 0;
+                    padding: 0;
+                    top: 0;
+                    left: -10px;
+                }
+
+                .logo3 {
+                    position: relative;
+                    width: 150px;
+                    margin: 0;
+                    padding: 0;
+                    top: 0;
+                    left: -10px;
+                }
+            }
+
+            .vit {
+                display: none;
+            }
+
+
+        }
+
+        .materials2 {
+            margin-top: 50px;
+
+            h2 {
+                text-align: center;
+            }
+
+            p {
+                text-align: center;
+            }
+
+            a {
+                text-align: center;
+            }
+        }
+    }
+}

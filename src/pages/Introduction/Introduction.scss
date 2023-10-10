@@ -1,0 +1,100 @@
+.introduction {
+    width: 100vw;
+    height: 60vh;
+    margin-top: 40vh;
+
+
+    .intro1 {
+        width: 150px;
+        margin-top: 30px;
+
+        .logo-introduction {
+            width: 150px;
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    .vit {
+        font-size: 220px;
+        margin-top: -100px;
+        margin-left: 50px;
+        margin-right: 20px;
+        font-weight: 100;
+        color: rgb(0, 100, 0);
+
+    }
+
+    .intro2 {
+        top: -20px;
+        padding-right: 0;
+
+        h1 {
+            color: rgb(0, 100, 0);
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+            font-size: 18px;
+
+        }
+    }
+
+
+
+    footer {
+        position: fixed;
+        bottom: 5px;
+        left: calc(50vw - 141px);
+        color: rgb(91, 91, 91);
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+    .introduction {
+        margin-top: 100px;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 15px;
+        .intro2 {
+            top: -40px;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .introduction {
+        justify-content: center;
+        margin-top: 0;
+
+
+        .intro1 {
+            position: relative;
+            width: auto;
+            margin-bottom: 50px;
+
+            .logo-introduction {
+                margin: 0;
+                padding: 0;
+            }
+
+        }
+
+        .vit {
+            display: none;
+            transform: rotate(90deg);
+
+
+        }
+        .intro2 {
+            top: 0px;
+        }
+
+
+        footer {
+            display: none;
+        }
+    }
+}

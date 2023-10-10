@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1)",
+        "h2": "Il test del massimo serramento statico",
+        "h3des": "Descrizione:",
+        "description": "Un giorno e mezzo per comprendere nel dettaglio la misurazione della funzione orale con elaborazione Percentage Overlapping Coefficient (POC) e imparare a tradurre le informazioni funzionali in piani di trattamento affidabili per una clinica quotidiana di qualità.",
+        "h3rec": "Destinatari:",
+        "recipients":"Professionisti che intendano comprendere a fondo le potenzialità della registrazione strumentale dell’attività muscolare nella diagnosi, comunicazione, trattamento e monitoraggio dei pazienti odontoiatrici o che desiderino migliorare l’utilizzo del proprio elettromiografo (con analisi standardizzata o no).",
+        "btn": "Programma dettagliato",
+        "href": "http://oralfunctionmeasurement.com/assets/files/lv1-statico.pdf"
+    },
+    {
+        "id": "2)",
+        "h2": "Ortodonzia e casi complessi",
+        "h3des": "Descrizione:",
+        "description": "Una giornata per Illustrare il flow-chart analitico di tutti gli indici forniti dall'esame ssEMG secondo la metodica VF Ferrario per analizzare a) la posizione del piano di occlusione visto dal punto di vista funzionale, b) l'attività muscolare in relazione alla distribuzione dei punti di contatto. Tale procedura diagnostica aiuta sia i protesisti sia gli ortodontisti quando hanno la necessità di eseguire una riabilitazione totale dell'occlusione. Il corso avrà una particolare attenzione agli ortodontisti essendo il relatore un ortodontista esclusivista.",
+        "h3rec": "Destinatari:",
+        "recipients":"Professionisti che intendano comprendere a fondo le potenzialità dell'esame elettromiografico normalizzato nella diagnosi, comunicazione, trattamento e monitoraggio dei pazienti ortodontici e casi complessi.",
+        "btn": "Programma dettagliato",
+        "href": "http://oralfunctionmeasurement.com/assets/files/lv2-ortodonzia.pdf"
+    },
+    {
+        "id": "3)",
+        "h2": "Analisi dinamica o muscoli cervicali",
+        "h3des": "Descrizione:",
+        "description": "Due corsi indipendenti di una giornata (organizzabili a richiesta) per approfondire le potenzialità del test muscolare strumentale nella valutazione dei muscoli cervicali o della dinamica masticatoria. Per una fruizione completa si consiglia la frequenza successivamente al corso Valutazioni strumentali dell'apparato stomatognatico. Il test del massimo serramento statico",
+        "h3rec": "Destinatari:",
+        "recipients":"Professionisti che intendano comprendere a fondo le potenzialità della registrazione strumentale dell’attività muscolare dinamica dei muscoli masticatori nella diagnosi, comunicazione, trattamento e monitoraggio dei Pazienti dello studio dentistico o Professionisti interessati ad indagare strumentalmente le relazioni tra occlusione e reclutamento dei muscoli cervicali.",
+        "btn": "Programma dettagliato",
+        "href": "http://oralfunctionmeasurement.com/assets/files/lv3-dinamica.pdf"
+    }
+]

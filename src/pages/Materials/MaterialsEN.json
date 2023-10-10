@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "myowise",
+        "text": "The most advanced technology for measuring the chewing function.",
+        "more": "Click here for more detailed information",
+        "href": "https://www.myowise.com/en/",
+        "vit": "{",
+        "src": "myowise"
+    },
+    {
+        "id": 2,
+        "title": "tracymed",
+        "text": "Post-treatment clinical monitoring designed for Dentists.",
+        "more": "Click here for more detailed information",
+        "href": "https://tracymed.com/",
+        "vit": "{",
+        "src": "tracymed"
+    },
+    {
+        "id": 3,
+        "title": "easymyo",
+        "text": "A modern electromyographer to effectively measure chewing muscles.",
+        "more": "Click here for more detailed information",
+        "href": "http://easymyo.it/en/index.php",
+        "vit": "{",
+        "src": "easymyo"
+    }
+]

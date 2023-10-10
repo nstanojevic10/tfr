@@ -1,0 +1,79 @@
+.contact {
+    width: 100vw;
+    height: 60vh;
+    margin-top: 40vh;
+
+    .contact1 {
+        width: 150px;
+        margin-top: 30px;
+
+        h1 {
+            color: rgb(0, 100, 0);
+        }
+    }
+
+    .vit {
+        font-size: 220px;
+        margin-top: -100px;
+        margin-left: 50px;
+        margin-right: 20px;
+        font-weight: 100;
+        color: rgb(0, 100, 0);
+
+    }
+
+    .contact2 {
+        top: -20px;
+
+        .info {
+            min-height: 10%;
+            font-size: 25px;
+
+            .text {
+                color: rgb(91, 91, 91);
+            }
+        }
+
+        .social {
+            margin-right: 10px;
+            color:rgb(91, 91, 91);
+        }
+        .social-icon {
+            margin-right: 20px;
+        }
+
+    }
+}
+@media screen and (max-width: 992px) {
+    .contact {
+        margin-top: 100px;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .contact {
+        margin-top: 0;
+        justify-content: center;
+
+        .contact1 {
+            position: relative;
+            width: auto;
+            margin-bottom: 50px;
+
+
+        }
+
+        .vit {
+            display: none;
+        }
+
+        .contact2 {
+            top: -10px;
+            .info {
+                height: auto;
+            }
+
+        }
+    }
+}

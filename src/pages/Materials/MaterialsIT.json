@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "myowise",
+        "text": "La più avanzata tecnologia di misurazione della funzione masticatoria.",
+        "more": "Clicca qui per maggiori informazioni",
+        "href": "https://www.myowise.com/en/",
+        "vit": "{",
+        "src": "./assets/logo-myowise.jpg"
+    },
+    {
+        "id": 2,
+        "title": "tracymed",
+        "text": "Il monitoraggio clinico post-trattamento pensato per i Dentisti.",
+        "more": "Clicca qui per maggiori informazioni",
+        "href": "https://tracymed.com/",
+        "vit": "{",
+        "src": "./assets/logo-tracymed.svg"
+    },
+    {
+        "id": 3,
+        "title": "easymyo",
+        "text": "Un elettromiografo moderno per misurare efficacemente i muscoli masticatori.",
+        "more": "Clicca qui per maggiori informazioni",
+        "href": "http://easymyo.it/en/index.php",
+        "vit": "{",
+        "src": "./assets/easymyo.png"
+    }
+]

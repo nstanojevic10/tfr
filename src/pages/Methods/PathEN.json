@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1)",
+        "h2": "Static analysis - fundamental",
+        "h3des": "Description:",
+        "description": "Two days to understand in detail the measurement of oral function with the processing of the Percentage Overlapping Coefficient (POC) and to learn how to translate functional information into reliable treatment plans for a quality daily clinic.",
+        "h3rec": "Recipients:",
+        "recipients":"For Professionals who want to fully understand the potential of the instrumental recording of muscular activity or for who wish to improve the use of their electromyographer (with standardized analysis or not).",
+        "btn": "Detailed plan",
+        "href": "http://oralfunctionmeasurement.com/assets/files/lv1-statico.pdf"
+    },
+    {
+        "id": "2)",
+        "h2": "Static analysis - advanced applications",
+        "h3des": "Description:",
+        "description": "One day dedicated to clinical applications of oral function measurement in articulated cases. «Tips and Tricks» and clinical procedures to easily manage even complex prosthetic and orthodontic rehabilitations. A collegial comparison between the participants that can lead to the discussion of their clinical cases.",
+        "h3rec": "Recipients:",
+        "recipients":"For Professionals who know the protocols of the school and intend to apply them even in the most complex and non-routine cases",
+        "btn": "Detailed plan",
+        "href": "http://oralfunctionmeasurement.com/assets/files/lv2-ortodonzia.pdf"
+    },
+    {
+        "id": "3)",
+        "h2": "Static analysis - orthodontic treatments",
+        "h3des": "Description:",
+        "description": "A day to understand in detail the measurement of oral function with Percentage Overlapping Coefficient (POC) and learn how to translate the functional information into reliable orthodontic treatment plans.",
+        "h3rec": "Recipients:",
+        "recipients":"Professionals who want to know the applications of normalized electromyographic examination in diagnosis, communication, treatment and monitoring of orthodontic patients.",
+        "btn": "Detailed plan",
+        "href": "http://oralfunctionmeasurement.com/assets/files/lv3-dinamica.pdf"
+    }
+]

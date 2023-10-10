@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;300;400&family=Quattrocento+Sans&family=Raleway:wght@200;300;400&family=Roboto+Serif:opsz,wght@8..144,200;8..144,300&display=swap');
+
+.header {
+    height: 25vh;
+    position: fixed;
+    z-index: 1;
+    width: 100vw;
+    right: 0;
+    top: 0;
+    margin: 0;
+    left: 0;
+
+    .logo {
+        margin: 15px;
+        width: 100px;
+    }
+
+    .nav-div {
+        background-image: url(header-lines.svg);
+        background-size: 100% 25vh;
+
+        .btn-toggler {
+            color: rgb(0, 100, 0);
+            position: fixed;
+            top: 10px;
+            right: 10px;
+        }
+
+        .x {
+            display: none;
+            color: white;
+            font-size: 30px;
+            width: 50px;
+            height: 50px;
+        }
+
+
+        ul {
+
+            .li {
+                border-right: 1px solid rgb(160, 160, 160);
+                min-width: 60px;
+
+                .navlink {
+                    font-size: 20px;
+                    font-weight: 200;
+                    font-family: 'Quattrocento Sans';
+                    color: rgb(160, 160, 160);
+                    text-align: center;
+                    transition-duration: 200ms;
+                }
+
+                .navlink:hover {
+                    font-weight: 1000;
+                }
+
+                .active {
+                    color: red;
+                    font-weight: 1000;
+                }
+
+            }
+
+            .meths {
+                display: none;
+            }
+
+            .bibl {
+                display: none;
+            }
+
+            .secondRow {
+                display: flex;
+                position: absolute;
+                right: 15px;
+                top: 50px;
+
+                .li {
+                    border: 0;
+                }
+            }
+
+
+            .btn-flag {
+                .flag {
+                    width: 40px;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .header {
+        position: relative;
+        height: 100px;
+
+        .nav-div {
+            background-size: 100% 100px;
+
+            .btn-toggler {
+                position: absolute;
+            }
+
+            #navbarNav {
+                background-color: rgb(0, 100, 0);
+                opacity: 97%;
+                width: 100vw;
+                height: 100vh;
+                position: fixed;
+                top: 0;
+                right: 0;
+                left: 0;
+                bottom: 0;
+                transition: none;
+                transform: none;
+
+                .first {
+                    margin-top: calc(50vh - 200px);
+                }
+
+                .x {
+                    display: block;
+                    position: absolute;
+                    right: 15px;
+                    top: 15px;
+                }
+
+                .bibl {
+                    display: block;
+
+                    a {
+                        color: rgba($color: red, $alpha: 0.8);
+                    }
+                }
+
+                .meths {
+                    display: block;
+
+                    a {
+                        color: rgba($color: red, $alpha: 0.8);
+                    }
+
+                }
+
+                .secondRow {
+                    display: none;
+                }
+
+
+            }
+
+            .btn-flag {
+                margin-left: calc(50vw - 20px);
+            }
+        }
+    }
+}

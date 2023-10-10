@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "claudia",
+        "name": "Claudia P.B. Dellavia",
+        "text": "Dentist, Professor of Human Anatomy at the Department of Biomedical, Surgical and Dental Sciences of the University of Milan."
+    },
+    {
+        "id": 2,
+        "img": "./assets/teams/3.png",
+        "name": "Federica Musto",
+        "text": "Dentist, PhD in Morphological Sciences at the University of Milan. She is co-author of various publications in international journals."
+    },
+    {
+        "id": 3,
+        "img": "./assets/teams/4.png",
+        "name": "Redento Peretta",
+        "text": "Doctor Surgeon spec. Odontostomatology, Orthodontics and Morphological Sciences. Professor in Orthodontics School of Specialization in Maxillofacial Surgery and at the advanced course of Craniomandibular Disorders of the University of Padua."
+    },
+    {
+        "id": 4,
+        "img": "./assets/teams/6.png",
+        "name": "Francesco Rosati",
+        "text": "Dental technician. He lectures and courses in various congresses. Speaker at the Department of Human Anatomy of the University of Milan directed by Professor Chiarella Sforza"
+    },
+    {
+        "id": 5,
+        "img": "./assets/teams/5.png",
+        "name": "Riccardo Rosati",
+        "text": "Dentist, PhD in Morphological Sciences at the University of Milan. Author of scientific publications in international journals."
+    }
+]
